@@ -1,4 +1,4 @@
-Run the following from your linux host:
+Run the following from your PC:
 
 ```
 adb forward tcp:8022 tcp:8022
